@@ -1388,7 +1388,7 @@ h4 {
   text-align: center;
 }
 
-.section_process {
+.section_process.section_process {
   padding: 140px 0 0;
 }
 
@@ -4595,10 +4595,6 @@ body.active_5 .box-field-wrap:last-child {
     padding: 200px 0 0;
   }
 
-  .step__list {
-    top: -80px;
-  }
-
   .step-timer {
     width: 200px;
     height: 200px;
@@ -5293,8 +5289,8 @@ body.active_5 .box-field-wrap:last-child {
     display: none;
   }
 
-  .section_process {
-    padding: 95px 0 0;
+  .section_process.section_process {
+    padding: 70px 0 0;
   }
 
   .section_process .inner {
